@@ -1,3 +1,5 @@
+<img width="1354" height="592" alt="Screenshot (121)" src="https://github.com/user-attachments/assets/a1765ecc-8df4-4a89-9f70-8f5cceed08f7" />
+<img width="1350" height="601" alt="Screenshot (120)" src="https://github.com/user-attachments/assets/00f23b6a-041a-447a-b469-c65bafccc199" />
 # Enterprise API Gateway & Telemetry Dashboard
 
 An enterprise-grade API Gateway microservice architecture built with Node.js, Express, and React. Features dynamic reverse proxying, security middleware (rate-limiting & API keys), and a real-time observability dashboard backed by SQLite.
